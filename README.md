@@ -18,5 +18,4 @@ This repository contains:
 - Easy-to-use interface to test new images and view results.  
 - Modular structure enabling re-training, fine-tuning or deployment.
 
-## 📂 Repository Structure  
 
